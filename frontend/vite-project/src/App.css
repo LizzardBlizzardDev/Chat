@@ -92,7 +92,6 @@ body {
 /* Barra fija */
 .input-bar {
     position: sticky;
-    /* 👈 IMPORTANTE */
     bottom: 0;
     background: #383a40;
     padding: 10px;
